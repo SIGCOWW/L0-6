@@ -1,4 +1,6 @@
 # COSMIC L0 Vol.6
+[![CircleCI](https://circleci.com/gh/SIGCOWW/L0-6.svg?style=svg)](https://circleci.com/gh/SIGCOWW/L0-6)
+
 C95「2日目東ト60a SIGCOWW」で発行(?:した|予定の)技術系同人誌「COSMIC L0 Vol.6」のソースコードリポジトリです。
 [desk/template - SIGCOWW/desk](https://github.com/SIGCOWW/desk/tree/master/template) を基にしています。
 
