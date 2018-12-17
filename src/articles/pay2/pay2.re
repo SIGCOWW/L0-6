@@ -60,10 +60,10 @@ Webフォームから加盟店審査を申し込んで終わりです。
 ==== 決済端末が簡素すぎる
 日本以外の国ではNFC決済に対応した端末（@<img>{contactless_reader}）をはじめ本格的な決済端末が提供されている一方、日本法人からは簡素な端末（@<img>{chip_card_reader}）しか提供されていません。
 スマートフォンやタブレットとの接続について、@<img>{chip_card_reader}は有線（フォーンプラグ）に対し@<img>{contactless_reader}は無線（Bluetooth）となり、電波干渉が心配されるコミケでの利用には配慮が要りそうですが、そもそも選択肢が無いというのは悲しいですね…。
-//subfig[Squareが提供する端末]{
-//image[contactless_reader][Square Contactless and Chip Reader][scale=0.49]
-//image[chip_card_reader][Square Chip Card Reader][scale=0.49]
-//}
+#@#//subfig[Squareが提供する端末]{
+//image[contactless_reader][Square_Contactless_and_Chip_Reader][scale=0.49]
+//image[chip_card_reader][Square_Chip_Card_Reader][scale=0.49]
+#@#//}
 
 なお、@<img>{contactless_reader}の端末を輸入して日本国内で利用することも検討しましたが、厳しそうです。
 まず、当該端末はスマートフォンやタブレットとBluetoothで接続するのですが、技適マークがありません。
@@ -184,15 +184,16 @@ Coineyでは、1次審査としてVisa、Mastercard、また国際ブランド�
 最近、JCBのカードで決済したのが、FANZAとDLsite、とら、メロブだけだったためという可能性が95割くらい考えられますね。
 
 ==== PINコード入力で決済できる
-まだクレジットカードの話です。
-Coineyでは、決済に@<img>{terminal_plus}のキーパッドのある端末@<fn>{miura}を利用しており、クレジットカード決済の際にPINコードで取引できます。嬉しい！
-ただ、2014年頃まで提供されていた@<img>{coiney_reader}の端末@<fn>{coineyreader}では、1万円以下の決済はサインレスだったそうです。悲しい！
+#@#まだクレジットカードの話です。
+#@#Coineyでは、決済に@<img>{terminal_plus}のキーパッドのある端末@<fn>{miura}を利用しており、クレジットカード決済の際にPINコードで取引できます。嬉しい！
+#@#ただ、2014年頃まで提供されていた@<img>{coiney_reader}の端末@<fn>{coineyreader}では、1万円以下の決済はサインレスだったそうです。悲しい！
 //subfig[Squareが提供する端末]{
-//image[terminal_plus][Coineyターミナル Plus][scale=0.49]
+//image[terminal_plus][CoineyターミナルPlus][scale=0.49]
 //image[coiney_reader][Coineyリーダー][scale=0.3]
 //}
 //footnote[miura][Miura M010 Reader]
 //footnote[coineyreader][決済端末のEMV対応義務化に伴って廃止された。]
+
 
 ==== 交通系電子マネーを取り扱う際のみ制約がある
 誰でも閲覧可能なサポートページ@<fn>{coiney-support}によると、いくつか気になる記述がありました。
@@ -206,7 +207,7 @@ Coineyでは、決済に@<img>{terminal_plus}のキーパッドのある端末@<
   決済アプリのインストール回数は1アカウント10回までだそうです。
   おそらく超えないとは思いますが、気をつける必要があります。
 
-//footnote[coiney-support][@<href>{https://support.coiney.com/hc/ja/categories/360001182011}@<qr>{https://support.coiney.com/hc/ja/categories/360001182011}]
+//footnote[coiney-support][@<href>{https://support.coiney.com/hc/ja/categories/360001182011}@<qrcode>{https://support.coiney.com/hc/ja/categories/360001182011}]
 
 
 == オペレーション
