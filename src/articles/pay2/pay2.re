@@ -198,8 +198,8 @@ Coineyでは、1次審査としてVisa、Mastercard、また国際ブランド�
 Coineyでは、決済に@<img>{terminal_plus}のキーパッドのある端末@<fn>{miura}を利用しており、クレジットカード決済の際にPINコードで取引できます。嬉しい！
 ただ、2014年頃まで提供されていた@<img>{coiney_reader}の端末@<fn>{coineyreader}では、1万円以下の決済はサインレスだったそうです。悲しい！
 //subfig[コイニーが提供する端末]{
-//image[terminal_plus][CoineyターミナルPlus][scale=0.3]
-//image[coiney_reader][Coineyリーダー][scale=0.25]
+//image[terminal_plus][CoineyターミナルPlus][scale=0.45]
+//image[coiney_reader][Coineyリーダー][scale=0.4]
 //}
 //footnote[miura][国内のモバイル決済でよく見る「Miura M010 Reader」です。他社のリーダーはたいてい黒色なのに、コイニーのリーダーは白色で見分けやすい。]
 //footnote[coineyreader][決済端末のEMV対応義務化に伴って廃止された。]
