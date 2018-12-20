@@ -182,7 +182,7 @@ y = \beta_{1}x + \beta_{0}
 プロットを@<img>{newcin_age_hb_polymodel_pred}に示します。
 辻野あかりちゃんは図中の丸点で示します。
 
-//image[newcin_age_hb_model_pred][辻野あかりと非線形単回帰モデルのプロット]
+//image[newcin_age_hb_polymodel_pred][辻野あかりと非線形単回帰モデルのプロット]
 
 誤差は身長が6.9、バストが1.2となりました。
 つまり、身長は高めで予測しにくく、バストは予測範囲内といったところでしょうか。
